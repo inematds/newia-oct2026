@@ -224,7 +224,7 @@ const html = `<!DOCTYPE html>
   .btn.ghost{background:transparent;color:var(--txt);border:1px solid var(--line)}
   nav .brand{white-space:nowrap}
   @media(max-width:760px){nav .links a.sec{display:none}}
-  @media(max-width:540px){nav .wrap{gap:10px} nav .brand span.emoji{display:none}}
+  @media(max-width:540px){nav .wrap{gap:10px} nav .brand span.emoji{display:none} nav .links{gap:8px} nav .btn{padding:.45em .7em;font-size:.82rem} .tgl{width:32px;height:32px}}
   .hero{position:relative;overflow:hidden;border-bottom:1px solid var(--line)}
   .hero .glow{position:absolute;inset:-40% -20% auto auto;width:70%;height:600px;background:radial-gradient(closest-side,rgba(226,162,59,.22),transparent 70%);pointer-events:none}
   .hero .wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;padding:74px 22px}
