@@ -1,0 +1,861 @@
+[
+  {
+    "slug": "claude-fable-5-2",
+    "rumor_nome": "Claude Fable 5.2",
+    "fabricante": "Anthropic",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "Claude Fable 5.1",
+      "data": "2026-09-01",
+      "contexto_tokens": 1000000,
+      "preco_input_1m": 10,
+      "preco_output_1m": 50,
+      "swe_bench_verified": null,
+      "gpqa_diamond": null,
+      "lmarena_elo": null,
+      "fonte": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "claims": [
+        "coding mais forte",
+        "trabalho de conhecimento mais forte",
+        "tarefas longas / long-horizon melhor",
+        "pesquisa mais forte",
+        "janela de lançamento: fim de setembro ou início de outubro de 2026 (não confirmado pela Anthropic)"
+      ],
+      "fonte": "https://cellcog.ai/blog/fable-5-2-release-date/"
+    },
+    "timeline": [
+      {
+        "versao": "Claude Fable 5 / Mythos 5",
+        "data": "2026-06-09",
+        "contexto_tokens": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Claude Sonnet 5",
+        "data": "2026-06-30",
+        "contexto_tokens": null,
+        "preco_input_1m": 2,
+        "preco_output_1m": 10
+      },
+      {
+        "versao": "Claude Opus 5",
+        "data": "2026-07-24",
+        "contexto_tokens": null,
+        "preco_input_1m": 5,
+        "preco_output_1m": 25
+      },
+      {
+        "versao": "Claude Fable 5.1 / Mythos 5.1",
+        "data": "2026-09-01",
+        "contexto_tokens": null,
+        "preco_input_1m": 10,
+        "preco_output_1m": 50
+      }
+    ],
+    "aberto": true
+  },
+  {
+    "slug": "claude-opus-5-1",
+    "rumor_nome": "Claude Opus 5.1",
+    "fabricante": "Anthropic",
+    "status": "rumor-sem-fonte",
+    "atual": {
+      "nome": "Claude Opus 5",
+      "data": "2026-07-24",
+      "contexto_tokens": 1000000,
+      "preco_input_1m": 5,
+      "preco_output_1m": 25,
+      "swe_bench_verified": null,
+      "gpqa_diamond": null,
+      "lmarena_elo": null,
+      "fonte": "https://www.anthropic.com/news/claude-opus-5"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "claims": [
+        "update do campeão custo-benefício",
+        "perto do Fable por metade do preço",
+        "foco enterprise"
+      ],
+      "fonte": null
+    },
+    "timeline": [
+      {
+        "versao": "Claude 3 Opus",
+        "data": null,
+        "contexto_tokens": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Claude Opus 4",
+        "data": null,
+        "contexto_tokens": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Claude Opus 4.5",
+        "data": "2025-11-24",
+        "contexto_tokens": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Claude Opus 4.8",
+        "data": null,
+        "contexto_tokens": 1000000,
+        "preco_input_1m": 5,
+        "preco_output_1m": 25
+      },
+      {
+        "versao": "Claude Opus 5",
+        "data": "2026-07-24",
+        "contexto_tokens": 1000000,
+        "preco_input_1m": 5,
+        "preco_output_1m": 25
+      }
+    ],
+    "aberto": false
+  },
+  {
+    "slug": "deepseek-v4-1-pro",
+    "rumor_nome": "DeepSeek V4.1 Pro",
+    "fabricante": "DeepSeek",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "DeepSeek-V4.1-Flash",
+      "data": "2026-09-10",
+      "contexto_tokens": 1048576,
+      "params_total_b": 552,
+      "params_ativos_b": null,
+      "preco_input_1m": 0.15,
+      "preco_output_1m": 0.6,
+      "swe_bench_verified": null,
+      "gpqa_diamond": null,
+      "lmarena_elo": null,
+      "fonte": "https://api-docs.deepseek.com/news/news260910/"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "params_total_b": null,
+      "claims": [
+        "lider open-source",
+        "contexto 1M",
+        "agentes muito fortes",
+        "cortador de precos"
+      ],
+      "fonte": "https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut"
+    },
+    "timeline": [
+      {
+        "versao": "DeepSeek-V3.1",
+        "data": "2025-08-19",
+        "contexto_tokens": 131072,
+        "params_total_b": 671,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "DeepSeek-V3.2-Exp",
+        "data": "2025-09-29",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "DeepSeek-V3.2",
+        "data": "2025-12-01",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "DeepSeek-V4 (Preview)",
+        "data": "2026-04-24",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "DeepSeek-V4-Flash-Vision-Exp",
+        "data": "2026-08-21",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "DeepSeek-V4.1-Flash",
+        "data": "2026-09-10",
+        "contexto_tokens": 1048576,
+        "params_total_b": 552,
+        "preco_input_1m": 0.15,
+        "preco_output_1m": 0.6
+      }
+    ],
+    "aberto": null
+  },
+  {
+    "slug": "gemini-4",
+    "rumor_nome": "Gemini 4.0",
+    "fabricante": "Google",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "Gemini 3.1 Pro (gemini-3.1-pro-preview)",
+      "data": "2026-02-19",
+      "contexto_tokens": 1048576,
+      "preco_input_1m": 2,
+      "preco_output_1m": 12,
+      "swe_bench_verified": 80.6,
+      "gpqa_diamond": 94.3,
+      "lmarena_elo": null,
+      "fonte": "https://ai.google.dev/gemini-api/docs/gemini-3"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "claims": [
+        "pré-treinamento do Gemini 4 confirmado pelo Google em 21/07/2026",
+        "leak não oficial de contexto de 1.5M+ tokens",
+        "leak não oficial de checkpoint interno do Gemini 4 Pro com lançamento em outubro/2026",
+        "sem model ID gemini-4-* confirmado na API até 02/09/2026"
+      ],
+      "fonte": "https://felloai.com/all-we-know-about-google-gemini-4/"
+    },
+    "timeline": [
+      {
+        "versao": "Gemini 3 Pro",
+        "data": "2025-11-18",
+        "contexto_tokens": 1048576,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Gemini 3 Flash",
+        "data": "2025-12-17",
+        "contexto_tokens": 1048576,
+        "preco_input_1m": 0.5,
+        "preco_output_1m": 3
+      },
+      {
+        "versao": "Gemini 3.1 Pro",
+        "data": "2026-02-19",
+        "contexto_tokens": 1048576,
+        "preco_input_1m": 2,
+        "preco_output_1m": 12
+      },
+      {
+        "versao": "Gemini 3.5 Flash + Gemini Omni",
+        "data": "2026-05-19",
+        "contexto_tokens": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Gemini 3.6 Flash",
+        "data": "2026-07-21",
+        "contexto_tokens": 1048576,
+        "preco_input_1m": 1.5,
+        "preco_output_1m": 7.5
+      },
+      {
+        "versao": "Gemini 3.8 Flash",
+        "data": "2026-09-02",
+        "contexto_tokens": 1048576,
+        "preco_input_1m": 0.75,
+        "preco_output_1m": 3.75
+      }
+    ],
+    "aberto": false
+  },
+  {
+    "slug": "glm-5-5",
+    "rumor_nome": "GLM-5.5 (Z.AI)",
+    "fabricante": "Zhipu/Z.ai",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "GLM-5.3",
+      "data": "2026-08-14",
+      "contexto_tokens": 1000000,
+      "params_total_b": 753,
+      "params_ativos_b": 40,
+      "preco_input_1m": 1.4,
+      "preco_output_1m": 4.4,
+      "swe_bench_verified": null,
+      "gpqa_diamond": null,
+      "lmarena_elo": null,
+      "fonte": "https://docs.z.ai/guides/llm/glm-5.3"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "params_total_b": 1000,
+      "claims": [
+        "mais de 1 trilhão de parâmetros totais",
+        "lançamento previsto para agosto de 2026",
+        "nome oficial seria GLM-5.5"
+      ],
+      "fonte": "https://wan27.org/blog/glm-5-5"
+    },
+    "timeline": [
+      {
+        "versao": "GLM-4.5",
+        "data": "2025-07-01",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GLM-4.6",
+        "data": "2025-09-30",
+        "contexto_tokens": 204800,
+        "params_total_b": 355,
+        "preco_input_1m": 0.43,
+        "preco_output_1m": 1.75
+      },
+      {
+        "versao": "GLM-4.7",
+        "data": "2025-12-01",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GLM-5",
+        "data": "2026-02-01",
+        "contexto_tokens": null,
+        "params_total_b": 744,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GLM-5.1",
+        "data": "2026-04-08",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GLM-5.2",
+        "data": "2026-06-16",
+        "contexto_tokens": 1000000,
+        "params_total_b": 753,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GLM-5.3",
+        "data": "2026-08-14",
+        "contexto_tokens": 1000000,
+        "params_total_b": 753,
+        "preco_input_1m": 1.4,
+        "preco_output_1m": 4.4
+      }
+    ],
+    "aberto": true
+  },
+  {
+    "slug": "gpt-6-sol",
+    "rumor_nome": "GPT-6 Sol",
+    "fabricante": "OpenAI",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "GPT-6 Astra",
+      "data": "2026-09-03",
+      "contexto_tokens": 1050000,
+      "preco_input_1m": 10,
+      "preco_output_1m": 50,
+      "swe_bench_verified": null,
+      "gpqa_diamond": null,
+      "lmarena_elo": null,
+      "fonte": "https://www.orcarouter.ai/blog/gpt-6-astra-successor-leak"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "claims": [
+        "modelo chamado 'GPT-6 Sol' existiria como workhorse padrão da geração GPT-6",
+        "disponibilidade ampla",
+        "foco em agentes de longo horizonte e coding"
+      ],
+      "fonte": "https://eyestech.in/gpt-6-sol-benchmarks-astra-latency-trap-leaks/"
+    },
+    "timeline": [
+      {
+        "versao": "GPT-5.1",
+        "data": null,
+        "contexto_tokens": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GPT-5.4",
+        "data": null,
+        "contexto_tokens": null,
+        "preco_input_1m": 2.5,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GPT-5.5",
+        "data": "2026-04-23",
+        "contexto_tokens": null,
+        "preco_input_1m": 5,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "GPT-5.6 Sol",
+        "data": "2026-07-09",
+        "contexto_tokens": 1050000,
+        "preco_input_1m": 4,
+        "preco_output_1m": 20
+      },
+      {
+        "versao": "GPT-6 Astra",
+        "data": "2026-09-03",
+        "contexto_tokens": 1050000,
+        "preco_input_1m": 10,
+        "preco_output_1m": 50
+      }
+    ],
+    "aberto": false
+  },
+  {
+    "slug": "gpt-bel",
+    "rumor_nome": "GPT Bel",
+    "fabricante": "OpenAI",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "GPT-6 Astra",
+      "data": "2026-09-03",
+      "contexto_tokens": 1050000,
+      "preco_input_1m": 10,
+      "preco_output_1m": 50,
+      "swe_bench_verified": null,
+      "gpqa_diamond": 96,
+      "lmarena_elo": null,
+      "fonte": "https://www.orcarouter.ai/blog/gpt-6-astra-successor-leak"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "claims": [
+        "Codinome 'Bel' = rodada de pre-treinamento com mais de 10 trilhoes de parametros, sucessora de 'Doug' (fonte: X @synthwavedd, 25/ago/2026, sem confirmacao da OpenAI)",
+        "'Bel' estaria reservado internamente enquanto times de alinhamento constroem sandboxes de avaliacao de seguranca",
+        "OpenAI confirmou publicamente (8/set/2026) a existencia de um modelo futuro nao nomeado, 'significativamente mais capaz' que o GPT-6 Astra, sem data/preco/nome",
+        "A alegacao especifica de '6x mais rapido que o Astra' em testes internos esta documentada para o codinome 'GPT-6 Sol', nao para 'Bel' -- ligacao entre os dois nomes nao confirmada em fonte primaria"
+      ],
+      "fonte": "https://www.orcarouter.ai/blog/gpt-6-astra-successor-leak"
+    },
+    "timeline": [
+      {
+        "versao": "GPT-5.5",
+        "data": "2026-04-23",
+        "contexto_tokens": 1000000,
+        "preco_input_1m": 5,
+        "preco_output_1m": 30
+      },
+      {
+        "versao": "GPT-5.6 Sol",
+        "data": "2026-07-09",
+        "contexto_tokens": 1100000,
+        "preco_input_1m": 4,
+        "preco_output_1m": 20
+      },
+      {
+        "versao": "GPT-6 Astra",
+        "data": "2026-09-03",
+        "contexto_tokens": 1050000,
+        "preco_input_1m": 10,
+        "preco_output_1m": 50
+      }
+    ],
+    "aberto": false
+  },
+  {
+    "slug": "grok-4-7",
+    "rumor_nome": "Grok 4.7",
+    "fabricante": "xAI",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "Grok 4.6",
+      "data": "2026-08-12",
+      "contexto_tokens": 500000,
+      "preco_input_1m": 2,
+      "preco_output_1m": 6,
+      "swe_bench_verified": null,
+      "gpqa_diamond": 94.9,
+      "lmarena_elo": null,
+      "fonte": "https://x.ai/news/grok-4-6"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "claims": [
+        "flagship da xAI",
+        "dados de engenharia da SpaceX (sem fonte pública direta encontrada)",
+        "multimodalidade em tempo real (sem fonte pública direta encontrada)",
+        "raciocínio aprimorado (sem detalhe técnico público)",
+        "custo-benefício (sem preço público)",
+        "~2,1 trilhões de parâmetros (não confirmado oficialmente)"
+      ],
+      "fonte": "https://www.bighatgroup.com/blog/xai-weekly-2026-09-13/"
+    },
+    "timeline": [
+      {
+        "versao": "Grok 4",
+        "data": null,
+        "contexto_tokens": 256000,
+        "preco_input_1m": 3,
+        "preco_output_1m": 15
+      },
+      {
+        "versao": "Grok 4.1 Fast",
+        "data": null,
+        "contexto_tokens": 2000000,
+        "preco_input_1m": 0.2,
+        "preco_output_1m": 0.5
+      },
+      {
+        "versao": "Grok 4.3",
+        "data": null,
+        "contexto_tokens": 1000000,
+        "preco_input_1m": 1.25,
+        "preco_output_1m": 2.5
+      },
+      {
+        "versao": "Grok 4.5",
+        "data": null,
+        "contexto_tokens": 500000,
+        "preco_input_1m": 2,
+        "preco_output_1m": 6
+      },
+      {
+        "versao": "Grok 4.6",
+        "data": "2026-08-12",
+        "contexto_tokens": 500000,
+        "preco_input_1m": 2,
+        "preco_output_1m": 6
+      }
+    ],
+    "aberto": false
+  },
+  {
+    "slug": "kimi-k3-1",
+    "rumor_nome": "Kimi K3.1",
+    "fabricante": "Moonshot AI",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "Kimi K3",
+      "data": "2026-07-16",
+      "contexto_tokens": 1048576,
+      "params_total_b": 2800,
+      "params_ativos_b": 104,
+      "preco_input_1m": 3,
+      "preco_output_1m": 15,
+      "swe_bench_verified": null,
+      "gpqa_diamond": 93.5,
+      "lmarena_elo": 1486,
+      "fonte": "https://en.wikipedia.org/wiki/Kimi_(AI)"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "params_total_b": null,
+      "claims": [
+        "performance mais próxima de GPT-5.6 e Claude Fable",
+        "inferência mais rápida / menor latência",
+        "melhor eficiência de tokens em raciocínio longo",
+        "fluxos de coding/agente mais confiáveis, menos passos desperdiçados",
+        "vantagem continuada sobre Claude Opus 5 em algumas tarefas de coding/agente",
+        "lançamento continuado com pesos abertos"
+      ],
+      "fonte": "https://www.orcarouter.ai/blog/kimi-k3-1-leak"
+    },
+    "timeline": [
+      {
+        "versao": "Kimi K2",
+        "data": "2025-07-01",
+        "contexto_tokens": null,
+        "params_total_b": 1000,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Kimi K2 Thinking",
+        "data": null,
+        "contexto_tokens": 262144,
+        "params_total_b": 1000,
+        "preco_input_1m": 0.6,
+        "preco_output_1m": 2.5
+      },
+      {
+        "versao": "Kimi K2.5",
+        "data": "2026-01-01",
+        "contexto_tokens": 262144,
+        "params_total_b": 1000,
+        "preco_input_1m": 0.6,
+        "preco_output_1m": 3
+      },
+      {
+        "versao": "Kimi K2.6",
+        "data": "2026-04-21",
+        "contexto_tokens": 262144,
+        "params_total_b": 1000,
+        "preco_input_1m": 0.95,
+        "preco_output_1m": 4
+      },
+      {
+        "versao": "Kimi K2.7 Code",
+        "data": "2026-06-12",
+        "contexto_tokens": 262144,
+        "params_total_b": 1000,
+        "preco_input_1m": 0.95,
+        "preco_output_1m": 4
+      },
+      {
+        "versao": "Kimi K3",
+        "data": "2026-07-16",
+        "contexto_tokens": 1048576,
+        "params_total_b": 2800,
+        "preco_input_1m": 3,
+        "preco_output_1m": 15
+      },
+      {
+        "versao": "Kimi K2.8 Preview",
+        "data": "2026-09-11",
+        "contexto_tokens": 1048576,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      }
+    ],
+    "aberto": true
+  },
+  {
+    "slug": "muse-spark-1-4",
+    "rumor_nome": "Muse Spark 1.4",
+    "fabricante": "Meta",
+    "status": "rumor-sem-fonte",
+    "atual": {
+      "nome": "Muse Spark 1.3",
+      "data": "2026-09-02",
+      "contexto_tokens": null,
+      "params_total_b": null,
+      "params_ativos_b": null,
+      "preco_input_1m": null,
+      "preco_output_1m": null,
+      "swe_bench_verified": null,
+      "gpqa_diamond": null,
+      "lmarena_elo": null,
+      "fonte": "https://en.wikipedia.org/wiki/Muse_Spark"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "params_total_b": null,
+      "claims": [
+        "novo release do Meta Superintelligence Labs",
+        "workflows de agente mais eficientes em tokens",
+        "menos recursos em tarefas longas"
+      ],
+      "fonte": null
+    },
+    "timeline": [
+      {
+        "versao": "Muse Spark (original)",
+        "data": "2026-04-08",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Muse Spark 1.1",
+        "data": "2026-07-09",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": 1.25,
+        "preco_output_1m": 4.25
+      },
+      {
+        "versao": "Muse Spark 1.2",
+        "data": "2026-08-05",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Muse Spark 1.3",
+        "data": "2026-09-02",
+        "contexto_tokens": null,
+        "params_total_b": null,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      }
+    ],
+    "aberto": false
+  },
+  {
+    "slug": "qwen-4",
+    "rumor_nome": "Qwen 4.0",
+    "fabricante": "Alibaba",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "Qwen3.8-Max",
+      "data": "2026-08-03",
+      "contexto_tokens": 1000000,
+      "params_total_b": 2400,
+      "params_ativos_b": 95,
+      "preco_input_1m": 2,
+      "preco_output_1m": 6,
+      "swe_bench_verified": null,
+      "gpqa_diamond": 92.6,
+      "lmarena_elo": null,
+      "fonte": "https://www.yottalabs.ai/post/qwen-3-8-max-release-date-specs-how-to-access-2026"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "params_total_b": 125,
+      "claims": [
+        "MoE com fração ativa bem menor (ex. 6B ativos), preview via Qwen3.8-Flash-Next",
+        "grande salto em multimodalidade e coding",
+        "ecossistema mais amplo",
+        "lançamento em setembro/2026 (leak não confirmado)"
+      ],
+      "fonte": "https://technode.com/2026/08/26/alibabas-qwen-to-open-source-qwen3-8-flash-next-previewing-qwen4-architecture/"
+    },
+    "timeline": [
+      {
+        "versao": "Qwen3-235B-A22B",
+        "data": "2025-04-01",
+        "contexto_tokens": 32768,
+        "params_total_b": 235,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Qwen3-235B-A22B-Instruct-2507",
+        "data": null,
+        "contexto_tokens": 262144,
+        "params_total_b": 235,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Qwen3.5-397B-A17B",
+        "data": "2026-02-15",
+        "contexto_tokens": null,
+        "params_total_b": 397,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "Qwen3.8-Max",
+        "data": "2026-08-03",
+        "contexto_tokens": 1000000,
+        "params_total_b": 2400,
+        "preco_input_1m": 2,
+        "preco_output_1m": 6
+      },
+      {
+        "versao": "Qwen3.8-Flash-Next",
+        "data": "2026-08-26",
+        "contexto_tokens": null,
+        "params_total_b": 125,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      }
+    ],
+    "aberto": false
+  },
+  {
+    "slug": "xiaomi-mimo-v3",
+    "rumor_nome": "Xiaomi MiMo-V3-Pro / Flash",
+    "fabricante": "Xiaomi",
+    "status": "rumor-com-fonte",
+    "atual": {
+      "nome": "MiMo-V2.5-Pro",
+      "data": "2026-04-30",
+      "contexto_tokens": 1000000,
+      "params_total_b": 1020,
+      "params_ativos_b": 42,
+      "preco_input_1m": 0.3045,
+      "preco_output_1m": 0.609,
+      "swe_bench_verified": null,
+      "gpqa_diamond": null,
+      "lmarena_elo": null,
+      "fonte": "https://openrouter.ai/xiaomi/mimo-v2-pro"
+    },
+    "rumor": {
+      "contexto_tokens": null,
+      "preco_input_1m": null,
+      "params_total_b": null,
+      "claims": [
+        "MiMo-V3-Flash seria o modelo anônimo 'Omen Alpha' oferecido pela OpenCode a assinantes do plano Go desde 4 de setembro de 2026, segundo hipótese do analista teortaxesTex",
+        "MiMo-V3-Flash seria construído sobre pesos abertos MIT da DeepSeek V4 GA (build 0813, ago/2026), a partir de semelhança estilística no chain-of-thought",
+        "A geração MiMo-V3 usaria arquitetura 'High Sparse' (camadas de atenção plena como oráculo + compartilhamento de KV-cache), previsto por Luo Fuli no ICML de julho de 2026, com alegação de ~10x de redução em memória de KV-cache",
+        "Números de um suposto MiMo-V3-Pro teriam vazado em agosto de 2026, mas sem detalhamento verificado nesta pesquisa"
+      ],
+      "fonte": "https://www.orcarouter.ai/blog/xiaomi-mimo-v3-flash-leak"
+    },
+    "timeline": [
+      {
+        "versao": "MiMo-7B",
+        "data": "2025-04-30",
+        "contexto_tokens": null,
+        "params_total_b": 7,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "MiMo-7B-RL-0530",
+        "data": "2025-05-30",
+        "contexto_tokens": 48000,
+        "params_total_b": 7,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "MiMo-V2-Flash",
+        "data": "2025-12-17",
+        "contexto_tokens": 256000,
+        "params_total_b": 309,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "MiMo-V2-Pro",
+        "data": "2026-03-18",
+        "contexto_tokens": 1000000,
+        "params_total_b": 1000,
+        "preco_input_1m": null,
+        "preco_output_1m": null
+      },
+      {
+        "versao": "MiMo-V2.5 / MiMo-V2.5-Pro",
+        "data": "2026-04-30",
+        "contexto_tokens": 1000000,
+        "params_total_b": 1020,
+        "preco_input_1m": 0.3045,
+        "preco_output_1m": 0.609
+      }
+    ],
+    "aberto": true
+  }
+]
