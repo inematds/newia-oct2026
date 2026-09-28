@@ -1,5 +1,7 @@
 # 12 Novas IAs — Outubro 2026
 
+**🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
+
 [![12 Novas IAs — Outubro 2026](guia/assets/banner.jpg)](https://inematds.github.io/newia-oct2026/guia/)
 
 Dossiê de pesquisa sobre as **12 IAs anunciadas (como rumor) para outubro de 2026** — GPT Bel, GPT-6 Sol,
